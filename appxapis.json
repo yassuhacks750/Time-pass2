@@ -6924,6 +6924,10 @@
         "api": "https://sadhyaacademyapi.classx.co.in"
     },
     {
+        "name": "Saadhyapscacademy",
+        "api": "https://saadhyapscacademyapi.akamai.net.in"
+    },
+    {
         "name": "Safalacademyforgpsc",
         "api": "https://safalacademyforgpscapi.classx.co.in"
     },
@@ -9018,6 +9022,10 @@
     {
         "name": "Udaaninstitute",
         "api": "https://udaaninstituteapi.classx.co.in"
+    },
+    {
+        "name": "udaanchhattishgarh",
+        "api": "https://udaanacademychhattisgarhapi.akamai.net.in"
     },
     {
         "name": "Udaaninstituteofexcellence",
