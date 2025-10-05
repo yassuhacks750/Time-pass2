@@ -25,12 +25,12 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://yashxug:Yash2835P@yashxug
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002947231622"))
 # -----------------------------------------------
-join = '<a href="https://t.me/professor750bot">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/+ASmtLNZJNSc4Yjdl">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
 UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
-ADMIN_BOT_USERNAME = "txtnewyashbot" #without @
+ADMIN_BOT_USERNAME = "professor750bot" #without @
 
 THUMB_URL = os.environ.get("THUMB_URL", "https://img.freepik.com/premium-photo/black-car-is-driving-down-road_951586-147043.jpg")
