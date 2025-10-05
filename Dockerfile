@@ -19,4 +19,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Run the Extractor module
-CMD ["sh", "-c", "python -m Extractor"]
+CMD ["sh", "-c", "gunicorn app:app & python3 -m Extractor/main.py"]
