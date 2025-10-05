@@ -16,14 +16,14 @@ BOT_TEXT = "txtnewyashbot"
 OWNER_ID = int(os.environ.get("OWNER_ID", "7296271316"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "--1002947231622"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002947231622"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "--1002947231622")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002947231622")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://yashxug:Yash2835P@yashxug.om3yk1q.mongodb.net/retryWrites=true&w=majority&appName=Yashxug")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "--1002947231622"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002947231622"))
 # -----------------------------------------------
 join = '<a href="https://t.me/Alphaso_09_bot">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
