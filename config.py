@@ -11,7 +11,7 @@ API_HASH = os.environ.get("API_HASH","0fc127c6055acd59f00ec6c229e1e3c4")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8352615146:AAHi0skmzj_NjDB05JFs_jfSTbZyeIkNSOE")
 # ------------------------------------------------
 BOT_USERNAME = os.environ.get("BOT_USERNAME", "@txtnewyashbot")
-BOT_TEXT = "newtxtbot"
+BOT_TEXT = "txtnewyashbot"
 # ------------------------------------------------
 OWNER_ID = int(os.environ.get("OWNER_ID", "7296271316"))
 # ------------------------------------------------
