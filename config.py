@@ -19,7 +19,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "7296271316"))
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002947231622"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1002947231622")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "--1002992927422")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://yashxug:Yash2835P@yashxug.om3yk1q.mongodb.net/retryWrites=true&w=majority&appName=Yashxug")
 # -----------------------------------------------
@@ -33,4 +33,4 @@ UNSPLASH_QUERY = 'animal baby'
 # -----------------------------------------------
 ADMIN_BOT_USERNAME = "professor750bot" #without @
 
-THUMB_URL = os.environ.get("THUMB_URL", "https://img.freepik.com/premium-photo/black-car-is-driving-down-road_951586-147043.jpg")
+THUMB_URL = os.environ.get("THUMB_URL", "https://i.imghippo.com/files/jI7245WU.jpg")
