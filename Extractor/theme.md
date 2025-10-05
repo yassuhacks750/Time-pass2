@@ -5,7 +5,7 @@
 ### Login Prompt
 ```
 ━━━━━━━━━━━━━━━━━━━━━
-🎭 <b>ᴜɢ ᴇxᴛʀᴀᴄᴛᴏʀ ᴘʀᴏ</b> 🎭
+🎭 <b> PROFESSOR EXTRACTOR </b> 🎭
 ━━━━━━━━━━━━━━━━━━━━━
 
 📝 <b>ʜᴏᴡ ᴛᴏ ʟᴏɢɪɴ:</b>
@@ -130,12 +130,10 @@
 📅 <b>ᴅᴀᴛᴇ:</b> {date}
 
 ━━━━━━━━━━━━━━━━━━━━━
-🔰 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @UGExtractorPro
+🔰 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ @professor750bot
 ```
 
-## Error Messages
-
-### Login Failed
+## Error Message Failed
 ```
 ━━━━━━━━━━━━━━━━━━━━━
 ❌ <b>ʟᴏɢɪɴ ғᴀɪʟᴇᴅ</b>
