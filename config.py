@@ -25,7 +25,7 @@ MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://yashxug:Yash2835P@yashxug
 # -----------------------------------------------
 PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1002947231622"))
 # -----------------------------------------------
-join = '<a href="https://t.me/+ASmtLNZJNSc4Yjdl">✳️ JOIN BACKUP</a>'
+join = '<a href="https://t.me/+daWSlkH8ijgwODNl">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
 UNSPLASH_ACCESS_KEY = 'RabDRmuXXBobanmwwbvpP5LwoG4J8ox34y5Sstz-9jk'
 # -----------------------------------------------
